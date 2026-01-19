@@ -94,6 +94,8 @@ ul li span{
     text-align: center;
     border-radius: 50%;
 }
+
+
 ul li span:hover{
     background: #edeef0;
 }
